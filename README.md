@@ -1,4 +1,4 @@
-#Context
+# Context
 This code is to use a survey from Google Forms for rank-voting
 The concept is that people can put their preferences as a ranking, and through various rounds, if their prefered candidate is not chosen, their vote goes to their next alternative
 
